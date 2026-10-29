@@ -1,5 +1,3 @@
-# Daniel Loza
-
 ## Smaller heading
 
 text text oj;aegnsengege
