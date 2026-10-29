@@ -4,7 +4,7 @@
 9 Cobblestone Drive, Paoli, PA 19301 | (336)-287-2189 | dloza7@gatech.edu | US Citizen
 
 ## Education				
-**Georgia Institute of Technology | Atlanta, GA** May 2029
+### **Georgia Institute of Technology | Atlanta, GA** May 2029
 Bachelor of Science in Electrical Engineering, GPA 4.00			
 
 ## Skills				
