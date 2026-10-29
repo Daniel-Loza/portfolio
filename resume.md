@@ -16,7 +16,7 @@ Bachelor of Science in Electrical Engineering, GPA 4.00
 
 **Communication:** Presentation, research, team projects, and customer service experience
 
-**Certificates:** Semiconductor Fabrication 101, Purdue University | August 2026
+**Certificates:** Semiconductor Fabrication 101, Purdue University \| August 2026
 
 ## Activities	 			
 ### Nanotechnology and Photonics Society | Project Lead | July 2026 – Present
