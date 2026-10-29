@@ -7,6 +7,9 @@ title: Resume
 .post-header {
   display: none;
 }
+.rss-subscribe {
+  display: none;
+}
 </style>
 
 # Resume
