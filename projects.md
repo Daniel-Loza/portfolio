@@ -20,7 +20,7 @@ Brief Description
 
 Final Image
 
-**[Learn More](/projects/ecediscovery.html)**
+**[Learn More](projects/ecediscovery.html)**
 
 ## Project 2 Name
 
