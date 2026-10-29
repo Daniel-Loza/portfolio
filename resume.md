@@ -14,6 +14,8 @@ title: Resume
 
 # Resume
 
+## [Download Available](/Resume.docx)
+
 ## Daniel James Loza
 9 Cobblestone Drive, Paoli, PA 19301 | (336)-287-2189 | dloza7@gatech.edu | US Citizen
 
