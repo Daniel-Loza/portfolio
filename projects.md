@@ -1,11 +1,15 @@
 # Projects
 
-## Project 1 Name
+## ECE Discovery Project
+
 Brief Description
+
 Final Image
-Completion Date
+
+**[Learn More](/projects/ecediscovery.html)**
 
 ## Project 2 Name
+
 Brief Description
+
 Final Image
-Completion Date
