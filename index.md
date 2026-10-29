@@ -17,5 +17,11 @@ title: Home
 [insert about me here]
 
 # Useful Links
+
 [Resume](/resume.md)
+
 [Projects](/projects.md)
+
+---
+
+*Last updated: {{ site.time | date: "%B %-d, %Y" }}*
