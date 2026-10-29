@@ -14,6 +14,8 @@ title: Home
 
 # Daniel Loza
 
+![headshot](headshot.jpg)
+
 [insert about me here]
 
 # Useful Links
