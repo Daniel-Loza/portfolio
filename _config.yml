@@ -13,6 +13,7 @@ author:
 minima:
   skin: dark
   hide_site_feed_link: true
-  nav_pages:
-    - projects.md
-    - resume.md
+
+header_pages:
+ - projects.md
+ - resume.md
