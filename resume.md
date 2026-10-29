@@ -8,16 +8,15 @@
 Bachelor of Science in Electrical Engineering, GPA 4.00			
 
 ## Skills				
-### Programming and Tools:
-Electrical Design Automation (Cadence, Synopsys), Python/Data Analysis, SystemVerilog, Java, Git, Linux
-### Hardware:
-Photolithography Machines, Microcontrollers, PCBs, analog/digital circuitry, sensors, displays, soldering
-### CAD:
-Printed Circuit Board Design (KiCad), 3D Modeling (SolidWorks)
-### Communication:
-Presentation, research, team projects, and customer service experience
-### Certificates:
-Semiconductor Fabrication 101, Purdue University | August 2026
+**Programming and Tools:** Electrical Design Automation (Cadence, Synopsys), Python/Data Analysis, SystemVerilog, Java, Git, Linux
+
+**Hardware:** Photolithography Machines, Microcontrollers, PCBs, analog/digital circuitry, sensors, displays, soldering
+
+**CAD:** Printed Circuit Board Design (KiCad), 3D Modeling (SolidWorks)
+
+**Communication:** Presentation, research, team projects, and customer service experience
+
+**Certificates:** Semiconductor Fabrication 101, Purdue University | August 2026
 
 ## Activities	 			
 ### Nanotechnology and Photonics Society | Project Lead | July 2026 – Present
