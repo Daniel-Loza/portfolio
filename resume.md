@@ -1,3 +1,14 @@
+---
+layout: page
+title: Resume
+---
+
+<style>
+.page-heading {
+  display: none;
+}
+</style>
+
 # Resume
 
 ## Daniel James Loza
