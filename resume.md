@@ -4,7 +4,7 @@ title: Resume
 ---
 
 <style>
-.page-heading {
+.post-header {
   display: none;
 }
 </style>
