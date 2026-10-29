@@ -17,5 +17,5 @@ title: Home
 [insert about me here]
 
 # Useful Links
-[Resume]/resume.md
-[Projects]/projects.md
+[Resume](/resume.md)
+[Projects](/projects.md)
