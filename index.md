@@ -22,6 +22,5 @@ title: Home
 
 [Projects](/projects.md)
 
----
 
 *Last updated: {{ site.time | date: "%B %-d, %Y" }}*
