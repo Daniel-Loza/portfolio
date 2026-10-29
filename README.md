@@ -1,7 +1,21 @@
-## Smaller heading
+---
+layout: page
+title: Home
+---
 
-text text oj;aegnsengege
+<style>
+.post-header {
+  display: none;
+}
+.rss-subscribe {
+  display: none;
+}
+</style>
 
-# Another big heading
+# Daniel Loza
 
-is this gonna change something
+[insert about me here]
+
+# Useful Links
+[Resume]/resume.md
+[Projects]/projects.md
