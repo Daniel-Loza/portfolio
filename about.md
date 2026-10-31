@@ -14,7 +14,7 @@ title: About Me
 
 # About Me
 
-![headshot](headshot.jpg)
+<img src="headshot.jpg" width=300px>
 
 My name is Daniel Loza, and I am currently pursuing a Bachelor's in electrical engineering at the Georgia Institute of Technology. I first enrolled in the summer 2026 semester. Since being admitted, I have dedicated my time here to learning and enjoying as many practical engineering skills as possible. My current engineering interests are nanotechnology fabrication and chip design.
 
