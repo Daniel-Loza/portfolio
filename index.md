@@ -26,5 +26,7 @@ I am an undergraduate student at Georgia Institute of Technology studying electr
 
 [Projects](/projects.md)
 
+[LinkedIn](https://www.linkedin.com/in/danielloza18/)
+
 
 *Last updated: {{ site.time | date: "%B %-d, %Y" }}*
