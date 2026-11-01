@@ -28,6 +28,12 @@ To overcome this hurdle, I pivoted to subtractive manufacturing on a ProtoMat an
 
 After design revisions, I successfully fabricated and soldered components to the final board.
 
+Image: All fabricated prototypes
+![all fabricated prototypes](prototypes.jpg)
+
 ## The Outcome
 
 The final result of this project is a two-layered triangular printed circuit board with the following components: 555 timer (integrated circuit), 2 capacitors, 10 resistors, and 8 LEDs of varying color that oscillate with only half of the lights emitting light at any given time.
+
+GIF: Final design
+![final design](final.gif)
