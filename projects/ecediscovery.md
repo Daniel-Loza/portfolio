@@ -28,6 +28,10 @@ To overcome this hurdle, I pivoted to subtractive manufacturing on a ProtoMat an
 
 After design revisions, I successfully fabricated and soldered components to the final board.
 
+Image: PCB in KiCad
+
+![cad  view of pcb](ecediscoverycad.png)
+
 ## Issues
 
 Besides previously described fabrication issues, I also encountered other difficulties. During soldering, it was extremely difficult to properly solder some components to the board if it had to be connected to traces on the top side of the board. To fix this issue, I implemented a system of vias and moved most traces and connections to the back side of the board. Additionally, I did not initially correctly account for the geometry of the USB-c breakout board, and the cable was slightly difficult to insert. To fix this issue, I moved the breakout board to the right. I also used different colors of LEDs and single (rather than multiple LEDs in series) to eliminate the need of the transistor to pull up the voltage coming out of the timer's output pin.
