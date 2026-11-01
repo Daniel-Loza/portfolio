@@ -12,7 +12,7 @@ title: Resume
 }
 </style>
 
-### [Download Available](/Resume.docx)
+### [Download Available](/Resume.pdf)
 
 # Resume
 
