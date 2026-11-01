@@ -18,6 +18,6 @@ title: Projects
 
 Through this project, I learn how to design, fabricate, and solder a two-layered printed circuit board. In the process, I make a representation of a Christmas tree.
 
-!(ece discovery project)[projects/ecediscoveryfinal.gif]
+![ece discovery project](projects/ecediscoveryfinal.gif)
 
 **[Learn More](projects/ecediscovery.html)**
