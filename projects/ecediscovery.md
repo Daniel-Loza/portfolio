@@ -34,7 +34,7 @@ Image: All fabricated prototypes
 
 ## The Outcome
 
-The final result of this project is a two-layered triangular printed circuit board with the following components: 555 timer (integrated circuit), 2 capacitors, 10 resistors, and 8 LEDs of varying color that oscillate with only half of the lights emitting light at any given time.
+The final result of this project is a two-layered triangular printed circuit board with the following components: 555 timer (integrated circuit), USB-C breakout board, 2 capacitors, 10 resistors, and 8 LEDs of varying color that oscillate with only half of the lights emitting light at any given time.
 
 GIF: Final design
 
