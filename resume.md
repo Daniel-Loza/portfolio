@@ -12,8 +12,8 @@ title: Resume
 }
 </style>
 
-### [Download Available](portfolio/Resume.pdf)
+### [Download Available](/Resume.pdf)
 
 # Resume
 
-<embed src="portfolio/Resume.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="/Resume.pdf" type="application/pdf" width="100%" height="600px" />
