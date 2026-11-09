@@ -16,5 +16,6 @@ minima:
 
 header_pages:
  - projects.md
+ - career.md
  - resume.md
  - about.md
