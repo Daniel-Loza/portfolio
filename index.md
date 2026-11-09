@@ -24,6 +24,8 @@ I am an undergraduate student at Georgia Institute of Technology studying electr
 
 [Resume](/resume.md)
 
+[Relevant Coursework](/coursework.md)
+
 [Projects](/projects.md)
 
 [Career Goals](/career.md)
