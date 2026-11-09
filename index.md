@@ -26,6 +26,8 @@ I am an undergraduate student at Georgia Institute of Technology studying electr
 
 [Projects](/projects.md)
 
+[Career Goals](/career.md)
+
 [LinkedIn](https://www.linkedin.com/in/danielloza18/)
 
 
